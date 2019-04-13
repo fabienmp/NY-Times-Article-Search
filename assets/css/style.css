@@ -8,4 +8,20 @@ body {
     background-color: rgb(47, 47, 145);
     color: white;
     padding: 40px;
+    border-radius: 1%;
+}
+
+#div2,
+#div3 {
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 1%;
+    border-width: 1px;
+}
+
+#topBar {
+    background-color: rgb(47, 47, 145);
+    color: white;
+
 }
