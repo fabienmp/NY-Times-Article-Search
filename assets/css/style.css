@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+}
+.col-lg-12 {
+    background-color: rgb(47, 47, 145);
+    color: white;
+    padding: 40px;
+}
