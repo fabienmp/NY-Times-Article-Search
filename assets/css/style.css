@@ -7,7 +7,6 @@ body {
     background-color: rgb(47, 47, 145);
     color: white;
     padding: 40px;
-<<<<<<< HEAD
     border-radius: 1%;
 }
 
@@ -24,16 +23,4 @@ body {
     background-color: rgb(47, 47, 145);
     color: white;
 
-=======
-    text-align: center;
-    margin-bottom: 30px;
-}
-.btn-primary {
-    float: left;
-    margin-right: 10px;
-}
-#top-bar {
-    background-color: rgb(97, 96, 96);
-    color: white;
->>>>>>> 7d7c9ff519f0f8310827b4c97e8d755a3aa757d4
 }
