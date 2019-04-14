@@ -25,12 +25,14 @@ $(document).ready(function () {
                 var articleDiv = $('<div>');
                 var headlineElement = $('<p>' + headLine + "</p>");
                 articleDiv.append(headlineElement);
-                $('#topBar').append(articleDiv);
+                $('.article').append(articleDiv);
 
             });
-
-
         });
     }
+
+    $('#clearButton').on('click', function() {
+        $('.article').empty();
+    });
 
 });
